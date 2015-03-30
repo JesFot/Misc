@@ -1,0 +1,11 @@
+* text=auto
+
+*.xml text
+*.json text
+*.java text
+*.txt text
+
+*.bat text eol=crlf
+
+*.png binary
+*.jpg binary
